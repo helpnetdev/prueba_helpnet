@@ -49,7 +49,7 @@ def procesar_data( cda_resp=''):
             horaEntrada = reg['horaEntrada'] if reg['horaEntrada'] != '' else generar_hora(*HORARIO_ENTRADA)
             horaSalida = reg['horaSalida'] if reg['horaSalida'] != '' else generar_hora(*HORARIO_SALIDA)
             salida[reg['fecha']] = (horaEntrada,horaSalida)
-        #print(salida)
+        
 
         for i in range( dias.days + 1):
            fecha = str( date.fromisoformat(fechaInicio) + timedelta(days=i) ) 
