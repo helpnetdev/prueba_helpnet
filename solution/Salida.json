@@ -1,0 +1,1725 @@
+{
+    "status": "OK",
+    "data": {
+      "id": "179573906",
+      "fechaInicio": "2019-01-21",
+      "fechaFin": "2019-12-30",
+      "registros": [
+        {
+          "fecha": "2019-01-21",
+          "horaEntrada": "07:44:34",
+          "horaSalida": "20:43:43"
+        },
+        {
+          "fecha": "2019-01-22",
+          "horaEntrada": "7:8:5",
+          "horaSalida": "19:12:35"
+        },
+        {
+          "fecha": "2019-01-23",
+          "horaEntrada": "7:58:14",
+          "horaSalida": "18:57:59"
+        },
+        {
+          "fecha": "2019-01-24",
+          "horaEntrada": "9:41:45",
+          "horaSalida": "19:47:36"
+        },
+        {
+          "fecha": "2019-01-25",
+          "horaEntrada": "9:21:32",
+          "horaSalida": "19:17:9"
+        },
+        {
+          "fecha": "2019-01-26",
+          "horaEntrada": "7:57:54",
+          "horaSalida": "18:27:07"
+        },
+        {
+          "fecha": "2019-01-27",
+          "horaEntrada": "8:55:8",
+          "horaSalida": "20:33:16"
+        },
+        {
+          "fecha": "2019-01-28",
+          "horaEntrada": "7:0:48",
+          "horaSalida": "19:18:10"
+        },
+        {
+          "fecha": "2019-01-29",
+          "horaEntrada": "07:19:49",
+          "horaSalida": "19:08:21"
+        },
+        {
+          "fecha": "2019-01-30",
+          "horaEntrada": "8:10:14",
+          "horaSalida": "19:42:27"
+        },
+        {
+          "fecha": "2019-01-31",
+          "horaEntrada": "9:42:18",
+          "horaSalida": "19:32:51"
+        },
+        {
+          "fecha": "2019-02-01",
+          "horaEntrada": "9:43:48",
+          "horaSalida": "19:8:47"
+        },
+        {
+          "fecha": "2019-02-02",
+          "horaEntrada": "9:3:37",
+          "horaSalida": "19:42:41"
+        },
+        {
+          "fecha": "2019-02-03",
+          "horaEntrada": "9:44:0",
+          "horaSalida": "18:22:8"
+        },
+        {
+          "fecha": "2019-02-04",
+          "horaEntrada": "9:2:57",
+          "horaSalida": "18:50:10"
+        },
+        {
+          "fecha": "2019-02-05",
+          "horaEntrada": "07:53:57",
+          "horaSalida": "19:55:30"
+        },
+        {
+          "fecha": "2019-02-06",
+          "horaEntrada": "8:41:23",
+          "horaSalida": "20:41:51"
+        },
+        {
+          "fecha": "2019-02-07",
+          "horaEntrada": "9:41:18",
+          "horaSalida": "18:21:14"
+        },
+        {
+          "fecha": "2019-02-08",
+          "horaEntrada": "8:45:22",
+          "horaSalida": "19:8:30"
+        },
+        {
+          "fecha": "2019-02-09",
+          "horaEntrada": "07:15:29",
+          "horaSalida": "19:34:37"
+        },
+        {
+          "fecha": "2019-02-10",
+          "horaEntrada": "7:20:40",
+          "horaSalida": "19:17:44"
+        },
+        {
+          "fecha": "2019-02-11",
+          "horaEntrada": "08:29:54",
+          "horaSalida": "18:45:3"
+        },
+        {
+          "fecha": "2019-02-12",
+          "horaEntrada": "7:26:43",
+          "horaSalida": "18:21:33"
+        },
+        {
+          "fecha": "2019-02-13",
+          "horaEntrada": "8:41:43",
+          "horaSalida": "19:18:6"
+        },
+        {
+          "fecha": "2019-02-14",
+          "horaEntrada": "9:15:57",
+          "horaSalida": "18:25:13"
+        },
+        {
+          "fecha": "2019-02-15",
+          "horaEntrada": "9:18:11",
+          "horaSalida": "19:58:44"
+        },
+        {
+          "fecha": "2019-02-16",
+          "horaEntrada": "7:11:22",
+          "horaSalida": "19:39:04"
+        },
+        {
+          "fecha": "2019-02-17",
+          "horaEntrada": "7:17:25",
+          "horaSalida": "19:09:45"
+        },
+        {
+          "fecha": "2019-02-18",
+          "horaEntrada": "7:29:37",
+          "horaSalida": "18:22:00"
+        },
+        {
+          "fecha": "2019-02-19",
+          "horaEntrada": "8:17:4",
+          "horaSalida": "19:37:48"
+        },
+        {
+          "fecha": "2019-02-20",
+          "horaEntrada": "8:2:44",
+          "horaSalida": "18:28:38"
+        },
+        {
+          "fecha": "2019-02-21",
+          "horaEntrada": "07:28:24",
+          "horaSalida": "20:43:9"
+        },
+        {
+          "fecha": "2019-02-22",
+          "horaEntrada": "07:20:10",
+          "horaSalida": "20:11:29"
+        },
+        {
+          "fecha": "2019-02-23",
+          "horaEntrada": "07:27:36",
+          "horaSalida": "18:29:57"
+        },
+        {
+          "fecha": "2019-02-24",
+          "horaEntrada": "7:29:24",
+          "horaSalida": "20:35:4"
+        },
+        {
+          "fecha": "2019-02-25",
+          "horaEntrada": "9:37:52",
+          "horaSalida": "20:0:22"
+        },
+        {
+          "fecha": "2019-02-26",
+          "horaEntrada": "07:55:56",
+          "horaSalida": "20:10:35"
+        },
+        {
+          "fecha": "2019-02-27",
+          "horaEntrada": "08:50:18",
+          "horaSalida": "19:29:4"
+        },
+        {
+          "fecha": "2019-02-28",
+          "horaEntrada": "7:4:55",
+          "horaSalida": "19:14:58"
+        },
+        {
+          "fecha": "2019-03-01",
+          "horaEntrada": "07:41:48",
+          "horaSalida": "19:45:25"
+        },
+        {
+          "fecha": "2019-03-02",
+          "horaEntrada": "08:24:06",
+          "horaSalida": "19:06:23"
+        },
+        {
+          "fecha": "2019-03-03",
+          "horaEntrada": "07:22:27",
+          "horaSalida": "20:14:31"
+        },
+        {
+          "fecha": "2019-03-04",
+          "horaEntrada": "07:38:20",
+          "horaSalida": "19:0:10"
+        },
+        {
+          "fecha": "2019-03-05",
+          "horaEntrada": "7:32:37",
+          "horaSalida": "20:20:46"
+        },
+        {
+          "fecha": "2019-03-06",
+          "horaEntrada": "8:52:26",
+          "horaSalida": "18:21:43"
+        },
+        {
+          "fecha": "2019-03-07",
+          "horaEntrada": "7:47:56",
+          "horaSalida": "19:21:21"
+        },
+        {
+          "fecha": "2019-03-08",
+          "horaEntrada": "07:18:13",
+          "horaSalida": "19:47:23"
+        },
+        {
+          "fecha": "2019-03-09",
+          "horaEntrada": "07:03:51",
+          "horaSalida": "20:25:40"
+        },
+        {
+          "fecha": "2019-03-10",
+          "horaEntrada": "7:46:33",
+          "horaSalida": "20:48:53"
+        },
+        {
+          "fecha": "2019-03-11",
+          "horaEntrada": "7:57:46",
+          "horaSalida": "19:37:41"
+        },
+        {
+          "fecha": "2019-03-12",
+          "horaEntrada": "8:34:40",
+          "horaSalida": "18:42:50"
+        },
+        {
+          "fecha": "2019-03-13",
+          "horaEntrada": "08:35:03",
+          "horaSalida": "19:43:11"
+        },
+        {
+          "fecha": "2019-03-14",
+          "horaEntrada": "9:39:42",
+          "horaSalida": "18:7:25"
+        },
+        {
+          "fecha": "2019-03-15",
+          "horaEntrada": "7:15:35",
+          "horaSalida": "18:1:32"
+        },
+        {
+          "fecha": "2019-03-16",
+          "horaEntrada": "7:50:54",
+          "horaSalida": "19:35:44"
+        },
+        {
+          "fecha": "2019-03-17",
+          "horaEntrada": "9:39:43",
+          "horaSalida": "19:29:4"
+        },
+        {
+          "fecha": "2019-03-18",
+          "horaEntrada": "08:09:10",
+          "horaSalida": "18:10:54"
+        },
+        {
+          "fecha": "2019-03-19",
+          "horaEntrada": "08:20:00",
+          "horaSalida": "20:7:27"
+        },
+        {
+          "fecha": "2019-03-20",
+          "horaEntrada": "7:23:5",
+          "horaSalida": "19:12:49"
+        },
+        {
+          "fecha": "2019-03-21",
+          "horaEntrada": "7:35:48",
+          "horaSalida": "18:59:35"
+        },
+        {
+          "fecha": "2019-03-22",
+          "horaEntrada": "08:10:41",
+          "horaSalida": "19:30:42"
+        },
+        {
+          "fecha": "2019-03-23",
+          "horaEntrada": "08:39:12",
+          "horaSalida": "19:51:01"
+        },
+        {
+          "fecha": "2019-03-24",
+          "horaEntrada": "08:59:23",
+          "horaSalida": "18:23:28"
+        },
+        {
+          "fecha": "2019-03-25",
+          "horaEntrada": "07:43:41",
+          "horaSalida": "18:40:30"
+        },
+        {
+          "fecha": "2019-03-26",
+          "horaEntrada": "07:42:51",
+          "horaSalida": "18:33:59"
+        },
+        {
+          "fecha": "2019-03-27",
+          "horaEntrada": "7:44:44",
+          "horaSalida": "19:56:44"
+        },
+        {
+          "fecha": "2019-03-28",
+          "horaEntrada": "7:51:50",
+          "horaSalida": "20:40:35"
+        },
+        {
+          "fecha": "2019-03-29",
+          "horaEntrada": "9:48:8",
+          "horaSalida": "20:39:31"
+        },
+        {
+          "fecha": "2019-03-30",
+          "horaEntrada": "07:23:12",
+          "horaSalida": "20:55:16"
+        },
+        {
+          "fecha": "2019-03-31",
+          "horaEntrada": "8:3:12",
+          "horaSalida": "18:54:25"
+        },
+        {
+          "fecha": "2019-04-01",
+          "horaEntrada": "9:11:4",
+          "horaSalida": "18:32:17"
+        },
+        {
+          "fecha": "2019-04-02",
+          "horaEntrada": "8:52:56",
+          "horaSalida": "19:14:50"
+        },
+        {
+          "fecha": "2019-04-03",
+          "horaEntrada": "8:57:52",
+          "horaSalida": "19:31:56"
+        },
+        {
+          "fecha": "2019-04-04",
+          "horaEntrada": "9:16:51",
+          "horaSalida": "18:11:4"
+        },
+        {
+          "fecha": "2019-04-05",
+          "horaEntrada": "9:54:9",
+          "horaSalida": "18:8:40"
+        },
+        {
+          "fecha": "2019-04-06",
+          "horaEntrada": "08:08:04",
+          "horaSalida": "20:51:35"
+        },
+        {
+          "fecha": "2019-04-07",
+          "horaEntrada": "8:22:51",
+          "horaSalida": "19:23:01"
+        },
+        {
+          "fecha": "2019-04-08",
+          "horaEntrada": "07:52:02",
+          "horaSalida": "19:23:30"
+        },
+        {
+          "fecha": "2019-04-09",
+          "horaEntrada": "8:50:34",
+          "horaSalida": "20:52:27"
+        },
+        {
+          "fecha": "2019-04-10",
+          "horaEntrada": "7:24:10",
+          "horaSalida": "20:1:49"
+        },
+        {
+          "fecha": "2019-04-11",
+          "horaEntrada": "8:58:10",
+          "horaSalida": "20:22:16"
+        },
+        {
+          "fecha": "2019-04-12",
+          "horaEntrada": "8:2:37",
+          "horaSalida": "20:29:16"
+        },
+        {
+          "fecha": "2019-04-13",
+          "horaEntrada": "08:20:54",
+          "horaSalida": "19:55:36"
+        },
+        {
+          "fecha": "2019-04-14",
+          "horaEntrada": "9:8:28",
+          "horaSalida": "19:3:1"
+        },
+        {
+          "fecha": "2019-04-15",
+          "horaEntrada": "7:25:57",
+          "horaSalida": "18:45:48"
+        },
+        {
+          "fecha": "2019-04-16",
+          "horaEntrada": "07:59:54",
+          "horaSalida": "20:51:1"
+        },
+        {
+          "fecha": "2019-04-17",
+          "horaEntrada": "9:26:17",
+          "horaSalida": "19:26:11"
+        },
+        {
+          "fecha": "2019-04-18",
+          "horaEntrada": "8:28:12",
+          "horaSalida": "18:1:43"
+        },
+        {
+          "fecha": "2019-04-19",
+          "horaEntrada": "8:39:10",
+          "horaSalida": "19:12:42"
+        },
+        {
+          "fecha": "2019-04-20",
+          "horaEntrada": "9:53:19",
+          "horaSalida": "19:05:54"
+        },
+        {
+          "fecha": "2019-04-21",
+          "horaEntrada": "9:0:53",
+          "horaSalida": "19:48:37"
+        },
+        {
+          "fecha": "2019-04-22",
+          "horaEntrada": "9:16:41",
+          "horaSalida": "18:23:59"
+        },
+        {
+          "fecha": "2019-04-23",
+          "horaEntrada": "9:50:20",
+          "horaSalida": "18:34:22"
+        },
+        {
+          "fecha": "2019-04-24",
+          "horaEntrada": "8:26:11",
+          "horaSalida": "18:37:40"
+        },
+        {
+          "fecha": "2019-04-25",
+          "horaEntrada": "9:3:26",
+          "horaSalida": "20:0:54"
+        },
+        {
+          "fecha": "2019-04-26",
+          "horaEntrada": "7:11:32",
+          "horaSalida": "20:43:6"
+        },
+        {
+          "fecha": "2019-04-27",
+          "horaEntrada": "08:10:55",
+          "horaSalida": "18:14:45"
+        },
+        {
+          "fecha": "2019-04-28",
+          "horaEntrada": "9:19:38",
+          "horaSalida": "18:1:2"
+        },
+        {
+          "fecha": "2019-04-29",
+          "horaEntrada": "7:36:2",
+          "horaSalida": "20:33:53"
+        },
+        {
+          "fecha": "2019-04-30",
+          "horaEntrada": "08:10:39",
+          "horaSalida": "18:29:48"
+        },
+        {
+          "fecha": "2019-05-01",
+          "horaEntrada": "7:11:25",
+          "horaSalida": "18:58:41"
+        },
+        {
+          "fecha": "2019-05-02",
+          "horaEntrada": "8:20:39",
+          "horaSalida": "20:50:41"
+        },
+        {
+          "fecha": "2019-05-03",
+          "horaEntrada": "9:9:53",
+          "horaSalida": "20:34:37"
+        },
+        {
+          "fecha": "2019-05-04",
+          "horaEntrada": "7:48:47",
+          "horaSalida": "19:38:32"
+        },
+        {
+          "fecha": "2019-05-05",
+          "horaEntrada": "7:18:20",
+          "horaSalida": "18:36:41"
+        },
+        {
+          "fecha": "2019-05-06",
+          "horaEntrada": "7:3:12",
+          "horaSalida": "19:45:04"
+        },
+        {
+          "fecha": "2019-05-07",
+          "horaEntrada": "8:48:25",
+          "horaSalida": "19:38:47"
+        },
+        {
+          "fecha": "2019-05-08",
+          "horaEntrada": "7:37:1",
+          "horaSalida": "18:20:44"
+        },
+        {
+          "fecha": "2019-05-09",
+          "horaEntrada": "07:20:24",
+          "horaSalida": "18:54:51"
+        },
+        {
+          "fecha": "2019-05-10",
+          "horaEntrada": "7:9:47",
+          "horaSalida": "20:22:52"
+        },
+        {
+          "fecha": "2019-05-11",
+          "horaEntrada": "08:11:02",
+          "horaSalida": "18:48:39"
+        },
+        {
+          "fecha": "2019-05-12",
+          "horaEntrada": "9:18:10",
+          "horaSalida": "18:41:09"
+        },
+        {
+          "fecha": "2019-05-13",
+          "horaEntrada": "9:19:7",
+          "horaSalida": "20:47:43"
+        },
+        {
+          "fecha": "2019-05-14",
+          "horaEntrada": "08:37:17",
+          "horaSalida": "18:39:39"
+        },
+        {
+          "fecha": "2019-05-15",
+          "horaEntrada": "9:32:21",
+          "horaSalida": "19:15:0"
+        },
+        {
+          "fecha": "2019-05-16",
+          "horaEntrada": "7:18:12",
+          "horaSalida": "20:17:34"
+        },
+        {
+          "fecha": "2019-05-17",
+          "horaEntrada": "7:58:54",
+          "horaSalida": "19:42:32"
+        },
+        {
+          "fecha": "2019-05-18",
+          "horaEntrada": "07:02:15",
+          "horaSalida": "18:48:34"
+        },
+        {
+          "fecha": "2019-05-19",
+          "horaEntrada": "9:7:14",
+          "horaSalida": "20:48:8"
+        },
+        {
+          "fecha": "2019-05-20",
+          "horaEntrada": "9:33:13",
+          "horaSalida": "18:56:1"
+        },
+        {
+          "fecha": "2019-05-21",
+          "horaEntrada": "7:39:3",
+          "horaSalida": "20:42:35"
+        },
+        {
+          "fecha": "2019-05-22",
+          "horaEntrada": "9:58:34",
+          "horaSalida": "18:43:40"
+        },
+        {
+          "fecha": "2019-05-23",
+          "horaEntrada": "7:17:19",
+          "horaSalida": "19:39:31"
+        },
+        {
+          "fecha": "2019-05-24",
+          "horaEntrada": "07:22:14",
+          "horaSalida": "19:21:25"
+        },
+        {
+          "fecha": "2019-05-25",
+          "horaEntrada": "9:0:10",
+          "horaSalida": "19:4:27"
+        },
+        {
+          "fecha": "2019-05-26",
+          "horaEntrada": "9:14:59",
+          "horaSalida": "18:24:22"
+        },
+        {
+          "fecha": "2019-05-27",
+          "horaEntrada": "8:41:6",
+          "horaSalida": "20:23:58"
+        },
+        {
+          "fecha": "2019-05-28",
+          "horaEntrada": "9:2:29",
+          "horaSalida": "18:21:40"
+        },
+        {
+          "fecha": "2019-05-29",
+          "horaEntrada": "9:9:30",
+          "horaSalida": "20:27:14"
+        },
+        {
+          "fecha": "2019-05-30",
+          "horaEntrada": "08:10:05",
+          "horaSalida": "18:19:34"
+        },
+        {
+          "fecha": "2019-05-31",
+          "horaEntrada": "9:23:40",
+          "horaSalida": "20:35:45"
+        },
+        {
+          "fecha": "2019-06-01",
+          "horaEntrada": "9:38:11",
+          "horaSalida": "19:42:19"
+        },
+        {
+          "fecha": "2019-06-02",
+          "horaEntrada": "8:56:46",
+          "horaSalida": "19:41:1"
+        },
+        {
+          "fecha": "2019-06-03",
+          "horaEntrada": "9:1:50",
+          "horaSalida": "18:11:56"
+        },
+        {
+          "fecha": "2019-06-04",
+          "horaEntrada": "7:45:38",
+          "horaSalida": "18:45:15"
+        },
+        {
+          "fecha": "2019-06-05",
+          "horaEntrada": "07:22:28",
+          "horaSalida": "20:14:46"
+        },
+        {
+          "fecha": "2019-06-06",
+          "horaEntrada": "7:54:36",
+          "horaSalida": "20:33:6"
+        },
+        {
+          "fecha": "2019-06-07",
+          "horaEntrada": "8:26:20",
+          "horaSalida": "20:53:33"
+        },
+        {
+          "fecha": "2019-06-08",
+          "horaEntrada": "8:5:21",
+          "horaSalida": "19:54:1"
+        },
+        {
+          "fecha": "2019-06-09",
+          "horaEntrada": "08:59:17",
+          "horaSalida": "20:36:51"
+        },
+        {
+          "fecha": "2019-06-10",
+          "horaEntrada": "07:39:00",
+          "horaSalida": "18:6:29"
+        },
+        {
+          "fecha": "2019-06-11",
+          "horaEntrada": "9:17:15",
+          "horaSalida": "19:38:8"
+        },
+        {
+          "fecha": "2019-06-12",
+          "horaEntrada": "08:41:29",
+          "horaSalida": "19:2:37"
+        },
+        {
+          "fecha": "2019-06-13",
+          "horaEntrada": "7:37:53",
+          "horaSalida": "18:20:58"
+        },
+        {
+          "fecha": "2019-06-14",
+          "horaEntrada": "7:5:20",
+          "horaSalida": "18:0:7"
+        },
+        {
+          "fecha": "2019-06-15",
+          "horaEntrada": "07:51:31",
+          "horaSalida": "20:29:31"
+        },
+        {
+          "fecha": "2019-06-16",
+          "horaEntrada": "7:1:2",
+          "horaSalida": "19:31:6"
+        },
+        {
+          "fecha": "2019-06-17",
+          "horaEntrada": "08:56:34",
+          "horaSalida": "18:26:16"
+        },
+        {
+          "fecha": "2019-06-18",
+          "horaEntrada": "07:15:13",
+          "horaSalida": "20:12:8"
+        },
+        {
+          "fecha": "2019-06-19",
+          "horaEntrada": "7:17:6",
+          "horaSalida": "18:07:13"
+        },
+        {
+          "fecha": "2019-06-20",
+          "horaEntrada": "9:23:13",
+          "horaSalida": "20:5:14"
+        },
+        {
+          "fecha": "2019-06-21",
+          "horaEntrada": "7:46:29",
+          "horaSalida": "18:49:56"
+        },
+        {
+          "fecha": "2019-06-22",
+          "horaEntrada": "8:55:39",
+          "horaSalida": "19:36:41"
+        },
+        {
+          "fecha": "2019-06-23",
+          "horaEntrada": "7:49:15",
+          "horaSalida": "19:14:00"
+        },
+        {
+          "fecha": "2019-06-24",
+          "horaEntrada": "7:24:3",
+          "horaSalida": "19:04:18"
+        },
+        {
+          "fecha": "2019-06-25",
+          "horaEntrada": "9:18:19",
+          "horaSalida": "19:54:2"
+        },
+        {
+          "fecha": "2019-06-26",
+          "horaEntrada": "8:55:4",
+          "horaSalida": "20:55:30"
+        },
+        {
+          "fecha": "2019-06-27",
+          "horaEntrada": "8:24:42",
+          "horaSalida": "20:50:44"
+        },
+        {
+          "fecha": "2019-06-28",
+          "horaEntrada": "8:21:45",
+          "horaSalida": "20:57:21"
+        },
+        {
+          "fecha": "2019-06-29",
+          "horaEntrada": "7:52:17",
+          "horaSalida": "20:36:28"
+        },
+        {
+          "fecha": "2019-06-30",
+          "horaEntrada": "7:48:58",
+          "horaSalida": "20:1:33"
+        },
+        {
+          "fecha": "2019-07-01",
+          "horaEntrada": "7:11:14",
+          "horaSalida": "18:07:17"
+        },
+        {
+          "fecha": "2019-07-02",
+          "horaEntrada": "9:27:20",
+          "horaSalida": "18:23:20"
+        },
+        {
+          "fecha": "2019-07-03",
+          "horaEntrada": "7:5:24",
+          "horaSalida": "18:52:16"
+        },
+        {
+          "fecha": "2019-07-04",
+          "horaEntrada": "7:18:5",
+          "horaSalida": "20:2:49"
+        },
+        {
+          "fecha": "2019-07-05",
+          "horaEntrada": "07:06:48",
+          "horaSalida": "19:8:12"
+        },
+        {
+          "fecha": "2019-07-06",
+          "horaEntrada": "9:47:46",
+          "horaSalida": "18:23:56"
+        },
+        {
+          "fecha": "2019-07-07",
+          "horaEntrada": "7:46:58",
+          "horaSalida": "18:42:16"
+        },
+        {
+          "fecha": "2019-07-08",
+          "horaEntrada": "07:47:43",
+          "horaSalida": "20:3:37"
+        },
+        {
+          "fecha": "2019-07-09",
+          "horaEntrada": "07:48:59",
+          "horaSalida": "19:48:24"
+        },
+        {
+          "fecha": "2019-07-10",
+          "horaEntrada": "7:12:58",
+          "horaSalida": "19:26:55"
+        },
+        {
+          "fecha": "2019-07-11",
+          "horaEntrada": "9:27:1",
+          "horaSalida": "18:11:19"
+        },
+        {
+          "fecha": "2019-07-12",
+          "horaEntrada": "08:14:23",
+          "horaSalida": "18:06:23"
+        },
+        {
+          "fecha": "2019-07-13",
+          "horaEntrada": "08:03:11",
+          "horaSalida": "18:33:34"
+        },
+        {
+          "fecha": "2019-07-14",
+          "horaEntrada": "8:38:26",
+          "horaSalida": "20:31:3"
+        },
+        {
+          "fecha": "2019-07-15",
+          "horaEntrada": "9:46:14",
+          "horaSalida": "19:3:53"
+        },
+        {
+          "fecha": "2019-07-16",
+          "horaEntrada": "08:46:38",
+          "horaSalida": "19:59:32"
+        },
+        {
+          "fecha": "2019-07-17",
+          "horaEntrada": "7:14:9",
+          "horaSalida": "18:34:45"
+        },
+        {
+          "fecha": "2019-07-18",
+          "horaEntrada": "8:49:16",
+          "horaSalida": "18:17:54"
+        },
+        {
+          "fecha": "2019-07-19",
+          "horaEntrada": "9:5:37",
+          "horaSalida": "20:24:15"
+        },
+        {
+          "fecha": "2019-07-20",
+          "horaEntrada": "7:25:39",
+          "horaSalida": "18:21:57"
+        },
+        {
+          "fecha": "2019-07-21",
+          "horaEntrada": "9:10:12",
+          "horaSalida": "19:3:39"
+        },
+        {
+          "fecha": "2019-07-22",
+          "horaEntrada": "7:53:41",
+          "horaSalida": "19:22:28"
+        },
+        {
+          "fecha": "2019-07-23",
+          "horaEntrada": "9:25:22",
+          "horaSalida": "18:52:24"
+        },
+        {
+          "fecha": "2019-07-24",
+          "horaEntrada": "07:31:57",
+          "horaSalida": "18:0:18"
+        },
+        {
+          "fecha": "2019-07-25",
+          "horaEntrada": "7:0:7",
+          "horaSalida": "19:56:39"
+        },
+        {
+          "fecha": "2019-07-26",
+          "horaEntrada": "9:58:7",
+          "horaSalida": "20:27:4"
+        },
+        {
+          "fecha": "2019-07-27",
+          "horaEntrada": "7:58:58",
+          "horaSalida": "20:35:28"
+        },
+        {
+          "fecha": "2019-07-28",
+          "horaEntrada": "8:49:47",
+          "horaSalida": "19:18:51"
+        },
+        {
+          "fecha": "2019-07-29",
+          "horaEntrada": "7:25:34",
+          "horaSalida": "18:15:58"
+        },
+        {
+          "fecha": "2019-07-30",
+          "horaEntrada": "8:3:54",
+          "horaSalida": "20:9:33"
+        },
+        {
+          "fecha": "2019-07-31",
+          "horaEntrada": "07:24:41",
+          "horaSalida": "18:8:23"
+        },
+        {
+          "fecha": "2019-08-01",
+          "horaEntrada": "8:31:36",
+          "horaSalida": "20:36:23"
+        },
+        {
+          "fecha": "2019-08-02",
+          "horaEntrada": "8:28:6",
+          "horaSalida": "20:35:41"
+        },
+        {
+          "fecha": "2019-08-03",
+          "horaEntrada": "7:43:39",
+          "horaSalida": "20:26:33"
+        },
+        {
+          "fecha": "2019-08-04",
+          "horaEntrada": "7:35:21",
+          "horaSalida": "19:45:21"
+        },
+        {
+          "fecha": "2019-08-05",
+          "horaEntrada": "08:01:18",
+          "horaSalida": "19:50:11"
+        },
+        {
+          "fecha": "2019-08-06",
+          "horaEntrada": "7:53:21",
+          "horaSalida": "19:46:47"
+        },
+        {
+          "fecha": "2019-08-07",
+          "horaEntrada": "9:27:39",
+          "horaSalida": "20:15:7"
+        },
+        {
+          "fecha": "2019-08-08",
+          "horaEntrada": "9:56:17",
+          "horaSalida": "20:13:43"
+        },
+        {
+          "fecha": "2019-08-09",
+          "horaEntrada": "07:25:22",
+          "horaSalida": "19:07:03"
+        },
+        {
+          "fecha": "2019-08-10",
+          "horaEntrada": "7:24:43",
+          "horaSalida": "18:18:58"
+        },
+        {
+          "fecha": "2019-08-11",
+          "horaEntrada": "7:14:0",
+          "horaSalida": "19:17:42"
+        },
+        {
+          "fecha": "2019-08-12",
+          "horaEntrada": "7:58:51",
+          "horaSalida": "18:45:55"
+        },
+        {
+          "fecha": "2019-08-13",
+          "horaEntrada": "8:4:50",
+          "horaSalida": "20:15:56"
+        },
+        {
+          "fecha": "2019-08-14",
+          "horaEntrada": "08:39:48",
+          "horaSalida": "18:45:47"
+        },
+        {
+          "fecha": "2019-08-15",
+          "horaEntrada": "7:57:22",
+          "horaSalida": "18:57:35"
+        },
+        {
+          "fecha": "2019-08-16",
+          "horaEntrada": "08:00:32",
+          "horaSalida": "20:3:9"
+        },
+        {
+          "fecha": "2019-08-17",
+          "horaEntrada": "07:26:39",
+          "horaSalida": "18:4:28"
+        },
+        {
+          "fecha": "2019-08-18",
+          "horaEntrada": "8:17:13",
+          "horaSalida": "20:55:41"
+        },
+        {
+          "fecha": "2019-08-19",
+          "horaEntrada": "08:31:44",
+          "horaSalida": "20:33:51"
+        },
+        {
+          "fecha": "2019-08-20",
+          "horaEntrada": "7:4:39",
+          "horaSalida": "19:51:29"
+        },
+        {
+          "fecha": "2019-08-21",
+          "horaEntrada": "8:29:9",
+          "horaSalida": "19:25:59"
+        },
+        {
+          "fecha": "2019-08-22",
+          "horaEntrada": "8:50:57",
+          "horaSalida": "19:8:53"
+        },
+        {
+          "fecha": "2019-08-23",
+          "horaEntrada": "08:41:14",
+          "horaSalida": "20:59:9"
+        },
+        {
+          "fecha": "2019-08-24",
+          "horaEntrada": "8:36:37",
+          "horaSalida": "18:16:56"
+        },
+        {
+          "fecha": "2019-08-25",
+          "horaEntrada": "9:53:36",
+          "horaSalida": "19:14:27"
+        },
+        {
+          "fecha": "2019-08-26",
+          "horaEntrada": "9:0:34",
+          "horaSalida": "20:0:13"
+        },
+        {
+          "fecha": "2019-08-27",
+          "horaEntrada": "8:38:19",
+          "horaSalida": "19:3:46"
+        },
+        {
+          "fecha": "2019-08-28",
+          "horaEntrada": "7:59:10",
+          "horaSalida": "19:26:51"
+        },
+        {
+          "fecha": "2019-08-29",
+          "horaEntrada": "08:31:29",
+          "horaSalida": "18:1:7"
+        },
+        {
+          "fecha": "2019-08-30",
+          "horaEntrada": "7:42:44",
+          "horaSalida": "20:38:21"
+        },
+        {
+          "fecha": "2019-08-31",
+          "horaEntrada": "9:2:34",
+          "horaSalida": "19:20:49"
+        },
+        {
+          "fecha": "2019-09-01",
+          "horaEntrada": "8:17:42",
+          "horaSalida": "18:39:30"
+        },
+        {
+          "fecha": "2019-09-02",
+          "horaEntrada": "7:19:2",
+          "horaSalida": "19:16:46"
+        },
+        {
+          "fecha": "2019-09-03",
+          "horaEntrada": "08:12:02",
+          "horaSalida": "19:12:59"
+        },
+        {
+          "fecha": "2019-09-04",
+          "horaEntrada": "7:34:37",
+          "horaSalida": "19:22:14"
+        },
+        {
+          "fecha": "2019-09-05",
+          "horaEntrada": "7:23:25",
+          "horaSalida": "19:59:7"
+        },
+        {
+          "fecha": "2019-09-06",
+          "horaEntrada": "07:02:11",
+          "horaSalida": "19:23:46"
+        },
+        {
+          "fecha": "2019-09-07",
+          "horaEntrada": "08:44:29",
+          "horaSalida": "19:00:58"
+        },
+        {
+          "fecha": "2019-09-08",
+          "horaEntrada": "8:35:47",
+          "horaSalida": "18:21:21"
+        },
+        {
+          "fecha": "2019-09-09",
+          "horaEntrada": "9:15:29",
+          "horaSalida": "20:17:18"
+        },
+        {
+          "fecha": "2019-09-10",
+          "horaEntrada": "9:43:14",
+          "horaSalida": "18:12:31"
+        },
+        {
+          "fecha": "2019-09-11",
+          "horaEntrada": "8:31:39",
+          "horaSalida": "20:19:34"
+        },
+        {
+          "fecha": "2019-09-12",
+          "horaEntrada": "7:4:50",
+          "horaSalida": "19:33:36"
+        },
+        {
+          "fecha": "2019-09-13",
+          "horaEntrada": "9:48:33",
+          "horaSalida": "19:55:3"
+        },
+        {
+          "fecha": "2019-09-14",
+          "horaEntrada": "7:3:43",
+          "horaSalida": "19:35:23"
+        },
+        {
+          "fecha": "2019-09-15",
+          "horaEntrada": "9:26:5",
+          "horaSalida": "20:37:30"
+        },
+        {
+          "fecha": "2019-09-16",
+          "horaEntrada": "9:7:28",
+          "horaSalida": "20:14:39"
+        },
+        {
+          "fecha": "2019-09-17",
+          "horaEntrada": "8:20:21",
+          "horaSalida": "18:22:50"
+        },
+        {
+          "fecha": "2019-09-18",
+          "horaEntrada": "7:51:38",
+          "horaSalida": "20:50:27"
+        },
+        {
+          "fecha": "2019-09-19",
+          "horaEntrada": "8:14:4",
+          "horaSalida": "18:14:49"
+        },
+        {
+          "fecha": "2019-09-20",
+          "horaEntrada": "08:14:05",
+          "horaSalida": "19:08:25"
+        },
+        {
+          "fecha": "2019-09-21",
+          "horaEntrada": "8:44:17",
+          "horaSalida": "20:21:9"
+        },
+        {
+          "fecha": "2019-09-22",
+          "horaEntrada": "7:11:47",
+          "horaSalida": "20:30:29"
+        },
+        {
+          "fecha": "2019-09-23",
+          "horaEntrada": "9:38:8",
+          "horaSalida": "20:27:46"
+        },
+        {
+          "fecha": "2019-09-24",
+          "horaEntrada": "8:57:3",
+          "horaSalida": "18:43:21"
+        },
+        {
+          "fecha": "2019-09-25",
+          "horaEntrada": "7:35:46",
+          "horaSalida": "20:9:14"
+        },
+        {
+          "fecha": "2019-09-26",
+          "horaEntrada": "7:27:25",
+          "horaSalida": "19:55:54"
+        },
+        {
+          "fecha": "2019-09-27",
+          "horaEntrada": "07:58:24",
+          "horaSalida": "18:18:53"
+        },
+        {
+          "fecha": "2019-09-28",
+          "horaEntrada": "8:47:12",
+          "horaSalida": "19:36:18"
+        },
+        {
+          "fecha": "2019-09-29",
+          "horaEntrada": "9:20:59",
+          "horaSalida": "18:22:53"
+        },
+        {
+          "fecha": "2019-09-30",
+          "horaEntrada": "9:29:1",
+          "horaSalida": "19:6:24"
+        },
+        {
+          "fecha": "2019-10-01",
+          "horaEntrada": "8:13:15",
+          "horaSalida": "19:02:30"
+        },
+        {
+          "fecha": "2019-10-02",
+          "horaEntrada": "07:01:26",
+          "horaSalida": "19:35:39"
+        },
+        {
+          "fecha": "2019-10-03",
+          "horaEntrada": "7:8:27",
+          "horaSalida": "19:17:53"
+        },
+        {
+          "fecha": "2019-10-04",
+          "horaEntrada": "07:07:23",
+          "horaSalida": "19:08:06"
+        },
+        {
+          "fecha": "2019-10-05",
+          "horaEntrada": "7:54:21",
+          "horaSalida": "20:14:57"
+        },
+        {
+          "fecha": "2019-10-06",
+          "horaEntrada": "07:32:04",
+          "horaSalida": "18:12:26"
+        },
+        {
+          "fecha": "2019-10-07",
+          "horaEntrada": "7:43:26",
+          "horaSalida": "18:6:45"
+        },
+        {
+          "fecha": "2019-10-08",
+          "horaEntrada": "8:38:7",
+          "horaSalida": "18:54:25"
+        },
+        {
+          "fecha": "2019-10-09",
+          "horaEntrada": "08:26:22",
+          "horaSalida": "19:31:00"
+        },
+        {
+          "fecha": "2019-10-10",
+          "horaEntrada": "7:57:16",
+          "horaSalida": "18:17:5"
+        },
+        {
+          "fecha": "2019-10-11",
+          "horaEntrada": "7:42:58",
+          "horaSalida": "19:50:14"
+        },
+        {
+          "fecha": "2019-10-12",
+          "horaEntrada": "8:40:52",
+          "horaSalida": "20:40:49"
+        },
+        {
+          "fecha": "2019-10-13",
+          "horaEntrada": "7:13:8",
+          "horaSalida": "19:36:13"
+        },
+        {
+          "fecha": "2019-10-14",
+          "horaEntrada": "07:37:59",
+          "horaSalida": "19:46:44"
+        },
+        {
+          "fecha": "2019-10-15",
+          "horaEntrada": "9:9:2",
+          "horaSalida": "18:06:57"
+        },
+        {
+          "fecha": "2019-10-16",
+          "horaEntrada": "08:46:07",
+          "horaSalida": "19:37:46"
+        },
+        {
+          "fecha": "2019-10-17",
+          "horaEntrada": "9:0:27",
+          "horaSalida": "18:12:10"
+        },
+        {
+          "fecha": "2019-10-18",
+          "horaEntrada": "9:10:26",
+          "horaSalida": "19:31:17"
+        },
+        {
+          "fecha": "2019-10-19",
+          "horaEntrada": "8:49:23",
+          "horaSalida": "18:37:37"
+        },
+        {
+          "fecha": "2019-10-20",
+          "horaEntrada": "7:2:49",
+          "horaSalida": "19:42:40"
+        },
+        {
+          "fecha": "2019-10-21",
+          "horaEntrada": "8:1:19",
+          "horaSalida": "20:23:20"
+        },
+        {
+          "fecha": "2019-10-22",
+          "horaEntrada": "7:15:22",
+          "horaSalida": "18:3:12"
+        },
+        {
+          "fecha": "2019-10-23",
+          "horaEntrada": "7:26:1",
+          "horaSalida": "20:3:25"
+        },
+        {
+          "fecha": "2019-10-24",
+          "horaEntrada": "8:5:24",
+          "horaSalida": "18:34:54"
+        },
+        {
+          "fecha": "2019-10-25",
+          "horaEntrada": "7:8:12",
+          "horaSalida": "20:42:14"
+        },
+        {
+          "fecha": "2019-10-26",
+          "horaEntrada": "8:21:58",
+          "horaSalida": "18:52:32"
+        },
+        {
+          "fecha": "2019-10-27",
+          "horaEntrada": "8:25:3",
+          "horaSalida": "18:06:21"
+        },
+        {
+          "fecha": "2019-10-28",
+          "horaEntrada": "7:46:38",
+          "horaSalida": "19:14:40"
+        },
+        {
+          "fecha": "2019-10-29",
+          "horaEntrada": "8:44:55",
+          "horaSalida": "18:42:21"
+        },
+        {
+          "fecha": "2019-10-30",
+          "horaEntrada": "9:8:33",
+          "horaSalida": "20:18:17"
+        },
+        {
+          "fecha": "2019-10-31",
+          "horaEntrada": "08:45:41",
+          "horaSalida": "18:17:13"
+        },
+        {
+          "fecha": "2019-11-01",
+          "horaEntrada": "08:14:54",
+          "horaSalida": "20:30:7"
+        },
+        {
+          "fecha": "2019-11-02",
+          "horaEntrada": "9:26:2",
+          "horaSalida": "18:19:16"
+        },
+        {
+          "fecha": "2019-11-03",
+          "horaEntrada": "7:13:15",
+          "horaSalida": "19:52:35"
+        },
+        {
+          "fecha": "2019-11-04",
+          "horaEntrada": "8:17:42",
+          "horaSalida": "19:17:41"
+        },
+        {
+          "fecha": "2019-11-05",
+          "horaEntrada": "07:13:34",
+          "horaSalida": "19:51:39"
+        },
+        {
+          "fecha": "2019-11-06",
+          "horaEntrada": "7:7:31",
+          "horaSalida": "19:9:53"
+        },
+        {
+          "fecha": "2019-11-07",
+          "horaEntrada": "7:7:35",
+          "horaSalida": "19:18:15"
+        },
+        {
+          "fecha": "2019-11-08",
+          "horaEntrada": "9:44:43",
+          "horaSalida": "18:54:56"
+        },
+        {
+          "fecha": "2019-11-09",
+          "horaEntrada": "9:15:32",
+          "horaSalida": "19:56:07"
+        },
+        {
+          "fecha": "2019-11-10",
+          "horaEntrada": "9:39:8",
+          "horaSalida": "20:21:13"
+        },
+        {
+          "fecha": "2019-11-11",
+          "horaEntrada": "9:50:23",
+          "horaSalida": "20:53:8"
+        },
+        {
+          "fecha": "2019-11-12",
+          "horaEntrada": "9:58:30",
+          "horaSalida": "19:19:15"
+        },
+        {
+          "fecha": "2019-11-13",
+          "horaEntrada": "07:10:04",
+          "horaSalida": "18:11:21"
+        },
+        {
+          "fecha": "2019-11-14",
+          "horaEntrada": "8:42:58",
+          "horaSalida": "19:17:45"
+        },
+        {
+          "fecha": "2019-11-15",
+          "horaEntrada": "08:26:58",
+          "horaSalida": "19:55:15"
+        },
+        {
+          "fecha": "2019-11-16",
+          "horaEntrada": "8:58:28",
+          "horaSalida": "18:12:7"
+        },
+        {
+          "fecha": "2019-11-17",
+          "horaEntrada": "08:09:57",
+          "horaSalida": "18:28:19"
+        },
+        {
+          "fecha": "2019-11-18",
+          "horaEntrada": "7:24:43",
+          "horaSalida": "19:50:2"
+        },
+        {
+          "fecha": "2019-11-19",
+          "horaEntrada": "9:38:22",
+          "horaSalida": "19:31:50"
+        },
+        {
+          "fecha": "2019-11-20",
+          "horaEntrada": "8:43:1",
+          "horaSalida": "20:4:25"
+        },
+        {
+          "fecha": "2019-11-21",
+          "horaEntrada": "07:23:59",
+          "horaSalida": "19:24:15"
+        },
+        {
+          "fecha": "2019-11-22",
+          "horaEntrada": "08:21:25",
+          "horaSalida": "18:32:28"
+        },
+        {
+          "fecha": "2019-11-23",
+          "horaEntrada": "7:14:27",
+          "horaSalida": "19:46:53"
+        },
+        {
+          "fecha": "2019-11-24",
+          "horaEntrada": "7:20:57",
+          "horaSalida": "18:39:11"
+        },
+        {
+          "fecha": "2019-11-25",
+          "horaEntrada": "07:00:25",
+          "horaSalida": "18:33:53"
+        },
+        {
+          "fecha": "2019-11-26",
+          "horaEntrada": "08:17:15",
+          "horaSalida": "19:31:11"
+        },
+        {
+          "fecha": "2019-11-27",
+          "horaEntrada": "8:34:39",
+          "horaSalida": "20:50:46"
+        },
+        {
+          "fecha": "2019-11-28",
+          "horaEntrada": "8:15:59",
+          "horaSalida": "18:9:30"
+        },
+        {
+          "fecha": "2019-11-29",
+          "horaEntrada": "07:44:48",
+          "horaSalida": "19:24:10"
+        },
+        {
+          "fecha": "2019-11-30",
+          "horaEntrada": "9:39:31",
+          "horaSalida": "20:54:45"
+        },
+        {
+          "fecha": "2019-12-01",
+          "horaEntrada": "9:42:51",
+          "horaSalida": "19:35:21"
+        },
+        {
+          "fecha": "2019-12-02",
+          "horaEntrada": "08:20:27",
+          "horaSalida": "19:19:34"
+        },
+        {
+          "fecha": "2019-12-03",
+          "horaEntrada": "8:56:19",
+          "horaSalida": "20:13:29"
+        },
+        {
+          "fecha": "2019-12-04",
+          "horaEntrada": "8:15:44",
+          "horaSalida": "18:12:11"
+        },
+        {
+          "fecha": "2019-12-05",
+          "horaEntrada": "9:41:22",
+          "horaSalida": "19:21:39"
+        },
+        {
+          "fecha": "2019-12-06",
+          "horaEntrada": "8:45:18",
+          "horaSalida": "20:42:15"
+        },
+        {
+          "fecha": "2019-12-07",
+          "horaEntrada": "7:35:10",
+          "horaSalida": "20:54:57"
+        },
+        {
+          "fecha": "2019-12-08",
+          "horaEntrada": "7:35:2",
+          "horaSalida": "18:18:0"
+        },
+        {
+          "fecha": "2019-12-09",
+          "horaEntrada": "8:41:33",
+          "horaSalida": "18:0:58"
+        },
+        {
+          "fecha": "2019-12-10",
+          "horaEntrada": "7:5:17",
+          "horaSalida": "19:2:46"
+        },
+        {
+          "fecha": "2019-12-11",
+          "horaEntrada": "8:58:36",
+          "horaSalida": "19:22:9"
+        },
+        {
+          "fecha": "2019-12-12",
+          "horaEntrada": "7:48:7",
+          "horaSalida": "18:44:40"
+        },
+        {
+          "fecha": "2019-12-13",
+          "horaEntrada": "9:15:50",
+          "horaSalida": "18:32:48"
+        },
+        {
+          "fecha": "2019-12-14",
+          "horaEntrada": "9:20:22",
+          "horaSalida": "20:39:29"
+        },
+        {
+          "fecha": "2019-12-15",
+          "horaEntrada": "07:17:57",
+          "horaSalida": "18:4:5"
+        },
+        {
+          "fecha": "2019-12-16",
+          "horaEntrada": "9:13:53",
+          "horaSalida": "19:28:31"
+        },
+        {
+          "fecha": "2019-12-17",
+          "horaEntrada": "07:20:55",
+          "horaSalida": "19:1:8"
+        },
+        {
+          "fecha": "2019-12-18",
+          "horaEntrada": "7:22:34",
+          "horaSalida": "18:11:45"
+        },
+        {
+          "fecha": "2019-12-19",
+          "horaEntrada": "8:39:3",
+          "horaSalida": "20:57:15"
+        },
+        {
+          "fecha": "2019-12-20",
+          "horaEntrada": "9:13:50",
+          "horaSalida": "19:9:18"
+        },
+        {
+          "fecha": "2019-12-21",
+          "horaEntrada": "8:46:10",
+          "horaSalida": "20:11:14"
+        },
+        {
+          "fecha": "2019-12-22",
+          "horaEntrada": "9:46:39",
+          "horaSalida": "19:10:32"
+        },
+        {
+          "fecha": "2019-12-23",
+          "horaEntrada": "9:1:45",
+          "horaSalida": "19:40:34"
+        },
+        {
+          "fecha": "2019-12-24",
+          "horaEntrada": "9:9:48",
+          "horaSalida": "20:39:53"
+        },
+        {
+          "fecha": "2019-12-25",
+          "horaEntrada": "8:53:16",
+          "horaSalida": "18:2:23"
+        },
+        {
+          "fecha": "2019-12-26",
+          "horaEntrada": "7:57:27",
+          "horaSalida": "18:39:36"
+        },
+        {
+          "fecha": "2019-12-27",
+          "horaEntrada": "07:24:21",
+          "horaSalida": "19:36:28"
+        },
+        {
+          "fecha": "2019-12-28",
+          "horaEntrada": "08:05:55",
+          "horaSalida": "19:21:53"
+        },
+        {
+          "fecha": "2019-12-29",
+          "horaEntrada": "08:38:08",
+          "horaSalida": "19:34:20"
+        }
+      ]
+    }
+  }
