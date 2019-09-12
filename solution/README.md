@@ -1,6 +1,5 @@
-==================
 Services API
-==================
+============
 Api que entrega servicios de manera RESTful, solo recibe json y devuelve json.
 
 -------------------------------
@@ -11,7 +10,6 @@ Servicio
 |-------------|------------|-------------------------|--------------------------------------------|
 | fix_date    | GET        | json                    | Arregla las fechas de inicio y fin.        |
 |             |            |                         | Descarga los datos en el sitio web de CDA. |
-|             |            |                         |                                            |
 | fix_date    | POST       | json                    | Arregla las fechas de inicio y fin.        |
 |             |            |                         | Puede recibir un dato json.                |
 
