@@ -1,0 +1,32 @@
+{  
+   "id":"581219199",
+   "fechaInicio":"2019-03-09",
+   "fechaFin":"2019-03-26",
+   "registros":[  
+      {  
+         "fecha":"2019-03-09",
+         "horaEntrada":"",
+         "horaSalida":""
+      },
+      {  
+         "fecha":"2019-03-14",
+         "horaEntrada":"",
+         "horaSalida":""
+      },
+      {  
+         "fecha":"2019-03-16",
+         "horaEntrada":"08:19:32",
+         "horaSalida":""
+      },
+      {  
+         "fecha":"2019-03-19",
+         "horaEntrada":"07:51:13",
+         "horaSalida":""
+      },
+      {  
+         "fecha":"2019-03-24",
+         "horaEntrada":"",
+         "horaSalida":"19:48:39"
+      }
+   ]
+}
